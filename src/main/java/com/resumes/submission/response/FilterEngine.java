@@ -15,7 +15,7 @@ public class FilterEngine {
 	    answersMap.put("Phone", "(973)405-3685");
 	    answersMap.put("Position", "Senior/Staff Software Engineer - Applications");
 	    answersMap.put("Source", "https://github.com/sheeraz80/resumefilter.git");
-	    answersMap.put("Resume", "https://github.com/sheeraz80/resumefilter.git/static/ResumeSheerazAliN.pdf");
+	    answersMap.put("Resume", "https://github.com/sheeraz80/resumefilter/blob/main/src/main/resources/static/ResumeSheerazAliN.pdf");
 	    answersMap.put("Degree", "Masters in Computer Science");
 	    answersMap.put("Name", "Sheeraz Ali");
 	}
