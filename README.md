@@ -4,7 +4,7 @@
 3. Ngrok (if running from local)
 
 
-#Test Locally
+# Test Locally
 1. Checkout the code.
 2. Execute spring-boot
 <code>mvn clean spring-boot:run</code>
